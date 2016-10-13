@@ -86,13 +86,12 @@ li {
     height: 100%;
   }
   .jumbotron h1 {
-    padding-top: 80px;
-    font-size: 80px;
-    margin-bottom: 70px; }
+    padding: 20vh 0 5vh 0;
+    font-size: 80px; }
     .jumboContainer h3 {
       letter-spacing: 8px;
       font-weight: 500;
-      margin-bottom: 70px; }
+      margin-bottom: 10vh; }
 
 .nav {
   background: #000;
