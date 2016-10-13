@@ -156,6 +156,12 @@ li {
     font-size: 120px; }
 }
 
+@media screen and (orientation: landscape) {
+  .jumboContainer h1 {
+    font-size: 80px;
+  }
+}
+
 /* Mobile Device */
 @media screen and (max-width: 600px) {
   .container {
@@ -163,7 +169,7 @@ li {
   .nav .container {
     max-width: 100%; }
   .nav li {
-    width: 100%; }
+    width: 90%; }
   .info .col1 {
     width: 100%;
     padding: 20px 0 40px 0; }
