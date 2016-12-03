@@ -131,7 +131,7 @@ li {
 
 .connect {
     height: 400px;
-    background: url("../assets/bluecon.jpg") no-repeat center center;
+    background: url("../assets/bluecon.jpg") no-repeat center center fixed;
     background-size: cover;
     text-align: right;
     color:#FFF; }
